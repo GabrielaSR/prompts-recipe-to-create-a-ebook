@@ -20,17 +20,17 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso "IA Generativa com Microsoft Copilot" na plataforma da [DIO](https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
+Todos os prompts seguem abaixo.
 
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Pixlr](https://pixlr.com/br/image-generator/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,29 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre Python sobre seu uso no contexto de análise de dados. O título deve ser épico, nerd e tenha uma temática de magia. Sugira 5 títulos criativos para esse ebook | 
+
+| conteúdo | 
+Faça um texto para ebook, com foco em Python, com o título: ""Python e a alquimia dos dados:
+Descubra a arte de transformar dados brutos em ouro analítico". Liste os principais uso do Python no contexto de análise de dados com exemplos de código
+{REGRAS}
+> Explique sempre de uma maneira simples, porém detalhada
+> Sempre traga exemplos de código em contextos reais
+> Sempre deixe um subtítulo sugestivo por tópico
+> Tenha um tom mais nerd
+> Após o código de exemplo explique o que o código faz |
 
 
-Midjourney：
+Pixlr：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| Imagem | an alchemist in a meditation pose, sitting cross-legged, on the floor an ancient alchemical symbol glowing and floating lightly in front of him, pixel art style |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Pixlr
 
 ## 📚 Materiais
 
@@ -73,15 +82,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGabriela Soares<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/GabrielaSR">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+    <a href="https://www.linkedin.com/in/gabrielasr/">LinkedIn</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
