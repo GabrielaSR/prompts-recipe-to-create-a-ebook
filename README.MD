@@ -41,7 +41,6 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre Python sobre seu uso no contexto de análise de dados. O título deve ser épico, nerd e tenha uma temática de magia. Sugira 5 títulos criativos para esse ebook | 
-
 | conteúdo | Faça um texto para ebook, com foco em Python, com o título: ""Python e a alquimia dos dados:
 Descubra a arte de transformar dados brutos em ouro analítico". Liste os principais uso do Python no contexto de análise de dados com exemplos de código
 {REGRAS}
